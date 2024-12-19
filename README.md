@@ -18,9 +18,11 @@ Build Status
 
 Цель работы. Установить необходимое програмное обеспечение для работы над анлизом данных в разработке игр.
 
-Задание 1. image
+Задание 1. ![image](https://github.com/user-attachments/assets/ecacf737-4a55-4c04-a186-6a76615d72bd)
 
-Задание 2. image
+
+Задание 2. ![image](https://github.com/user-attachments/assets/0fd537a7-634b-43c0-88c5-70cddd3fcff5)
+
 
 Задание 3.
 
