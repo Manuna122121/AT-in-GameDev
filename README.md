@@ -4,13 +4,16 @@
 
 Прокошева Мария Евгеньевна
 РИ230941 Отметка о выполнении заданий (заполняется студентом):
-Задание	Выполнение	Баллы
-Задание 1	*	
-Задание 2	*	
-Задание 3	*	
-N|Solid
+| Задание |	Выполнение | Баллы |
+| ------ | ------ | ------|
+| Задание 1 |	*	 | |
+|Задание 2 |	*	 | |
+|Задание 3 |	*	 | |
 
-Build Status
+
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 Структура отчета
 
